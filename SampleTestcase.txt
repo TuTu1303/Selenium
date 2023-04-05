@@ -1,0 +1,15 @@
+Write the script for the scenario below:
+View product details. 
+1. Go to http://automationpractice.com/index.php page. 
+2. Logged in account into system successfully. 
+3. Enter “Summer” to Quick Search box and select Search button 
+4. Select the Grid view 
+5. Click the “Printed Summer Press” item 
+6. Verify that the product detail screen loads with the correct selected product name. 
+7. Click on each color sequentially and verify the picture is changed accordingly on both picture box and thumbnail box 
+8. Click “Write a review” button. Verify a "Write a review" popup is displayed with the correct selected product name.
+9. Tick 4-star icon in Quality.
+10-. Write a title then Send. Verify that the message “Comment is incorrect” is displayed.
+11. Write some comments then Send 
+12. Verify that the "New comment" popup is displayed with message "Your comment has been added and will be available once approved by a moderator"
+13.  Selecting OK button will dismiss the message to product page correctly. 

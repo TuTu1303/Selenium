@@ -1,0 +1,22 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1653567894574	geckodriver	INFO	Listening on 127.0.0.1:52542
+1653567897663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hv\\AppData\\Local\\Temp\\rust_mozprofiletSpTx8"
+1653567897932	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hv\\AppData\\Local\\Temp\\rust_mozprofiletSpTx8\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+1653567901202	geckodriver	INFO	Listening on 127.0.0.1:52563
+1653567904295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hv\\AppData\\Local\\Temp\\rust_mozprofileTUaXOA"
+1653567904594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hv\\AppData\\Local\\Temp\\rust_mozprofileTUaXOA\\search.json.mozlz4", (void 0)))
+1653567905765	Marionette	INFO	Listening on port 52585
+Read port: 52585
+1653567905848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653567905983	Marionette	INFO	Stopped listening on port 52585
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
